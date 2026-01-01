@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is stance classification?",
+    "answer": "Stance classification is the task of determining the expressed or implied opinion or stance of a statement toward a specific target.",
+    "source_file": "2309.13734v2.Prompting_and_Fine_Tuning_Open_Sourced_Large_Language_Models_for_Stance_Classification.pdf"
+  },
+  {
+    "question": "What is a key limitation of stance classification models?",
+    "answer": "They struggle to generalize to new or unseen stance targets.",
+    "source_file": "2309.13734v2.Prompting_and_Fine_Tuning_Open_Sourced_Large_Language_Models_for_Stance_Classification.pdf"
+  }
+]

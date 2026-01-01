@@ -1,0 +1,352 @@
+[
+  {
+    "filename": "2309.13734v2.Prompting_and_Fine_Tuning_Open_Sourced_Large_Language_Models_for_Stance_Classification.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889390+00:00"
+  },
+  {
+    "filename": "2305.03715v1.Large_Language_Models_in_Ambulatory_Devices_for_Home_Health_Diagnostics__A_case_study_of_Sickle_Cell_Anemia_Management.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889591+00:00"
+  },
+  {
+    "filename": "2210.02627v1.Improving_the_Domain_Adaptation_of_Retrieval_Augmented_Generation__RAG__Models_for_Open_Domain_Question_Answering.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889599+00:00"
+  },
+  {
+    "filename": "2402.04477v1.Detecting_Mode_Collapse_in_Language_Models_via_Narration.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889603+00:00"
+  },
+  {
+    "filename": "2304.12244v3.WizardLM__Empowering_large_pre_trained_language_models_to_follow_complex_instructions.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889607+00:00"
+  },
+  {
+    "filename": "2401.15391v1.MultiHop_RAG__Benchmarking_Retrieval_Augmented_Generation_for_Multi_Hop_Queries.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889611+00:00"
+  },
+  {
+    "filename": "2311.04589v3.TEAL__Tokenize_and_Embed_ALL_for_Multi_modal_Large_Language_Models.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889615+00:00"
+  },
+  {
+    "filename": "2312.10793v3.Demystifying_Instruction_Mixing_for_Fine_tuning_Large_Language_Models.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889618+00:00"
+  },
+  {
+    "filename": "2203.08975v2.A_Survey_of_Multi_Agent_Deep_Reinforcement_Learning_with_Communication.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889620+00:00"
+  },
+  {
+    "filename": "2510.01751v1.A_cybersecurity_AI_agent_selection_and_decision_support_framework.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889623+00:00"
+  },
+  {
+    "filename": "2402.07483v2.T_RAG__Lessons_from_the_LLM_Trenches.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889626+00:00"
+  },
+  {
+    "filename": "2504.04915v1.Collab_RAG__Boosting_Retrieval_Augmented_Generation_for_Complex_Question_Answering_via_White_Box_and_Black_Box_LLM_Collaboration.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889629+00:00"
+  },
+  {
+    "filename": "2510.25518v1.Retrieval_Augmented_Generation__RAG__for_Fintech__Agentic_Design_and_Evaluation.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889632+00:00"
+  },
+  {
+    "filename": "2310.14025v1.Large_Language_Models_and_Multimodal_Retrieval_for_Visual_Word_Sense_Disambiguation.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889634+00:00"
+  },
+  {
+    "filename": "2501.02842v1.Foundations_of_GenIR.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889637+00:00"
+  },
+  {
+    "filename": "2404.15939v3.Telco_RAG__Navigating_the_Challenges_of_Retrieval_Augmented_Language_Models_for_Telecommunications.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889639+00:00"
+  },
+  {
+    "filename": "2306.15498v1.Using_Large_Language_Models_to_Provide_Explanatory_Feedback_to_Human_Tutors.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889642+00:00"
+  },
+  {
+    "filename": "2408.00025v3.Need_of_AI_in_Modern_Education__in_the_Eyes_of_Explainable_AI__xAI_.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889645+00:00"
+  },
+  {
+    "filename": "2312.12006v1.Can_ChatGPT_be_Your_Personal_Medical_Assistant_.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889647+00:00"
+  },
+  {
+    "filename": "2510.09567v1.Safe__Untrusted___Proof_Carrying__AI_Agents__toward_the_agentic_lakehouse.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889683+00:00"
+  },
+  {
+    "filename": "2112.01298v2.Meaningful_human_control__actionable_properties_for_AI_system_development.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889686+00:00"
+  },
+  {
+    "filename": "2305.05658v2.TidyBot__Personalized_Robot_Assistance_with_Large_Language_Models.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889689+00:00"
+  },
+  {
+    "filename": "2309.01446v4.Open_Sesame__Universal_Black_Box_Jailbreaking_of_Large_Language_Models.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889692+00:00"
+  },
+  {
+    "filename": "2106.11517v1.Fine_tune_the_Entire_RAG_Architecture__including_DPR_retriever__for_Question_Answering.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889694+00:00"
+  },
+  {
+    "filename": "2211.12434v1.Expansive_Participatory_AI__Supporting_Dreaming_within_Inequitable_Institutions.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889699+00:00"
+  },
+  {
+    "filename": "2504.01346v4.RAG_over_Tables__Hierarchical_Memory_Index__Multi_Stage_Retrieval__and_Benchmarking.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889702+00:00"
+  },
+  {
+    "filename": "2308.12400v1.Towards_The_Ultimate_Brain__Exploring_Scientific_Discovery_with_ChatGPT_AI.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889705+00:00"
+  },
+  {
+    "filename": "2409.18313v5.Embodied_RAG__General_Non_parametric_Embodied_Memory_for_Retrieval_and_Generation.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889708+00:00"
+  },
+  {
+    "filename": "2411.19443v1.Auto_RAG__Autonomous_Retrieval_Augmented_Generation_for_Large_Language_Models.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889711+00:00"
+  },
+  {
+    "filename": "2306.13549v4.A_Survey_on_Multimodal_Large_Language_Models.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889713+00:00"
+  },
+  {
+    "filename": "2305.14982v2.LAraBench__Benchmarking_Arabic_AI_with_Large_Language_Models.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889716+00:00"
+  },
+  {
+    "filename": "2412.12881v1.RAG_Star__Enhancing_Deliberative_Reasoning_with_Retrieval_Augmented_Verification_and_Refinement.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889718+00:00"
+  },
+  {
+    "filename": "2308.16118v2.Response__Emergent_analogical_reasoning_in_large_language_models.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889721+00:00"
+  },
+  {
+    "filename": "2312.12141v4.Neuron_Level_Knowledge_Attribution_in_Large_Language_Models.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889724+00:00"
+  },
+  {
+    "filename": "2310.05189v2.Factuality_Challenges_in_the_Era_of_Large_Language_Models.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889726+00:00"
+  },
+  {
+    "filename": "2305.09349v1.Establishing_Shared_Query_Understanding_in_an_Open_Multi_Agent_System.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889729+00:00"
+  },
+  {
+    "filename": "2312.05434v1.Beneath_the_Surface__Unveiling_Harmful_Memes_with_Multimodal_Reasoning_Distilled_from_Large_Language_Models.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889731+00:00"
+  },
+  {
+    "filename": "2404.04289v1.Designing_for_Human_Agent_Alignment__Understanding_what_humans_want_from_their_agents.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889734+00:00"
+  },
+  {
+    "filename": "2504.16770v1.DeBiasMe__De_biasing_Human_AI_Interactions_with_Metacognitive_AIED__AI_in_Education__Interventions.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889736+00:00"
+  },
+  {
+    "filename": "2309.02144v1.Making_Large_Language_Models_Better_Reasoners_with_Alignment.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889739+00:00"
+  },
+  {
+    "filename": "2503.15552v2.Personalized_Attacks_of_Social_Engineering_in_Multi_turn_Conversations__LLM_Agents_for_Simulation_and_Detection.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889742+00:00"
+  },
+  {
+    "filename": "2509.00961v1.Ultra_Strong_Machine_Learning__Teaching_Humans_Active_Learning_Strategies_via_Automated_AI_Explanations.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889744+00:00"
+  },
+  {
+    "filename": "2402.11651v2.Learning_From_Failure__Integrating_Negative_Examples_when_Fine_tuning_Large_Language_Models_as_Agents.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889747+00:00"
+  },
+  {
+    "filename": "2508.08544v1.AI_Agents_and_the_Law.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889749+00:00"
+  },
+  {
+    "filename": "2402.01717v1.From_RAG_to_QA_RAG__Integrating_Generative_AI_for_Pharmaceutical_Regulatory_Compliance_Process.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889752+00:00"
+  },
+  {
+    "filename": "2401.15284v6.Beyond_principlism__Practical_strategies_for_ethical_AI_use_in_research_practices.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889755+00:00"
+  },
+  {
+    "filename": "2502.13957v2.RAG_Gym__Systematic_Optimization_of_Language_Agents_for_Retrieval_Augmented_Generation.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889757+00:00"
+  },
+  {
+    "filename": "2511.22858v1.RAG_System_for_Supporting_Japanese_Litigation_Procedures__Faithful_Response_Generation_Complying_with_Legal_Norms.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889760+00:00"
+  },
+  {
+    "filename": "2310.00905v2.All_Languages_Matter__On_the_Multilingual_Safety_of_Large_Language_Models.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889762+00:00"
+  },
+  {
+    "filename": "2409.03708v2.RAG_based_Question_Answering_for_Contextual_Response_Prediction_System.pdf",
+    "source": "arxiv",
+    "domain": "AI",
+    "doc_type": "research",
+    "ingested_at": "2025-12-15T18:17:22.889765+00:00"
+  }
+]

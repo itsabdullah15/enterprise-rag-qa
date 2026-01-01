@@ -1,0 +1,7 @@
+[project]
+name = "enterprise_rag_qa"
+version = "0.1.0"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
