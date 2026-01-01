@@ -1,1 +1,69 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Byte-compiled
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+.envrc
+
+# ---- Environment Variables ----
 .env
+.env.*
+
+# ---- Build / Packaging ----
+build/
+dist/
+*.egg-info/
+.eggs/
+wheels/
+pip-wheel-metadata/
+
+# ---- Logs ----
+logs/
+*.log
+
+# ---- Pytest / Coverage ----
+.coverage
+.coverage.*
+htmlcov/
+.cache/
+.pytest_cache/
+
+# ---- Notebooks ----
+.ipynb_checkpoints/
+
+# ---- Editors ----
+.vscode/
+.idea/
+
+# ---- OS Files ----
+.DS_Store
+Thumbs.db
+
+# ---- Data / Models (adjust as needed) ----
+vector_db/
+data/processed/
+data/cache/
+models/
+checkpoints/
+
+# ---- FAISS / Indexes ----
+*.index
+*.faiss
+
+# ---- Docker ----
+*.pid
+
+# ---- MyPy / Ruff / Tools ----
+.mypy_cache/
+.ruff_cache/
+.dmypy.json
+
