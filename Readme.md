@@ -38,6 +38,7 @@ enterprise-rag-qa/
 ├── Dockerfile               # Build container image
 ├── requirements.txt         # Dependencies
 └── README.md
+```
 
 ## Features
 
