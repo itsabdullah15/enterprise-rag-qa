@@ -1,11 +1,21 @@
-[project]
-name = "enterprise_rag_qa"
-version = "0.1.0"
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]  # This adds the current directory to Python path
+addopts = "-vv --cov=src --cov-report=term-missing"
 
-[build-system]
-requires = ["setuptools"]
-build-backend = "setuptools.build_meta"
+[tool.coverage.run]
+source = ["src", "app"]
 
-[tool.setuptools.packages.find]
-where = ["src"]
-exclude = ["tests*", "*/tests*"]
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "def __repr__",
+    "if self.debug:",
+    "if settings.DEBUG",
+    "raise AssertionError",
+    "raise NotImplementedError",
+    "if 0:",
+    "if __name__ == .__main__.:",
+    "class Test",
+    "def test_",
+]
