@@ -1,0 +1,15 @@
+version: "3.9"
+
+services:
+  rag_api:
+    build: .
+    container_name: enterprise-rag-qa
+    ports:
+      - "8000:8000"
+    volumes:
+      - .env:/app/.env
+      - ./vector_db:/app/vector_db
+      - ./data:/app/data
+    environment:
+      - ENV=production
+    restart: unless-stopped
